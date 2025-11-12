@@ -1,1 +1,10 @@
-# BaldursGate3-Shared-Save
+# Shared save folder for the boys
+
+
+
+* Ronald
+* Luke
+* Jeremy
+* Justin
+* Jason
+* Elden
